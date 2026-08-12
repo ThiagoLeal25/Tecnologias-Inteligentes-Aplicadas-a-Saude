@@ -1,0 +1,18 @@
+-Sistema recomendar não é o mesmo que apoiar a decisão
+-Diagnosticos são reconhecimentos de padrões
+-Tudo é feito por volume de dados
+
+
+11/08
+
+Saúde > Diagnósticos/Recomendar ou apoiar
+
+Predição: classificação/categorização/etiquetação = tempo contínuo (projeção)
+Qualidade da amostra é importante (dados)
+Caso a amostra falte qualidade, deve ser compensado com quantidade
+
+Fases:
+1) Entender o problema
+2) Fontes de dados/amostras
+3) Limpeza/ETL => Pandas
+4) Aplicar ≠ modelos para identificar o adequado 
