@@ -16,3 +16,14 @@ Fases:
 2) Fontes de dados/amostras
 3) Limpeza/ETL => Pandas
 4) Aplicar ≠ modelos para identificar o adequado 
+
+
+18/08
+
+Modelos treinados -> amostras (conjuntos)
+Conjuntos -> entrada e features
+Predição ganhou força nos ultimos 5 anos
+Reconhecimento de padrões -> predição e previsão
+Predição -> classificar em categoria, rotular, etiquetar.
+Modelo mais famoso = árvore
+
