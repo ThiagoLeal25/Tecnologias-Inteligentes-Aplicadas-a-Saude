@@ -5,11 +5,11 @@
 
 11/08
 
-Saúde > Diagnósticos/Recomendar ou apoiar
+-Saúde > Diagnósticos/Recomendar ou apoiar
 
-Predição: classificação/categorização/etiquetação = tempo contínuo (projeção)
-Qualidade da amostra é importante (dados)
-Caso a amostra falte qualidade, deve ser compensado com quantidade
+-Predição: classificação/categorização/etiquetação = tempo contínuo (projeção)
+-Qualidade da amostra é importante (dados)
+-Caso a amostra falte qualidade, deve ser compensado com quantidade
 
 Fases:
 1) Entender o problema
@@ -20,10 +20,16 @@ Fases:
 
 18/08
 
-Modelos treinados -> amostras (conjuntos)
-Conjuntos -> entrada e features
-Predição ganhou força nos ultimos 5 anos
-Reconhecimento de padrões -> predição e previsão
-Predição -> classificar em categoria, rotular, etiquetar.
-Modelo mais famoso = árvore
+-Modelos treinados -> amostras (conjuntos)
+-Conjuntos -> entrada e features
+-Predição ganhou força nos ultimos 5 anos
+-Reconhecimento de padrões -> predição e previsão
+-Predição -> classificar em categoria, rotular, etiquetar.
+-Modelo mais famoso = árvore
 
+01/09
+-PyCaret não funciona com python mais moderno, requer python de 2025 ou antes
+-Acurácia x F1 Score (Amostra => treinamento)
+-Acurácia não é uma boa métrica comparada a outras
+-Precisão é o contrário do recall
+-F1 Score é uma junção de precisão e recall (Média dos dois)
