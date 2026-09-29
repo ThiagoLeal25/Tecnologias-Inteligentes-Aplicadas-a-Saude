@@ -1,0 +1,15 @@
+Nos dois problemas foram utilizados modelos de Machine Learning para classificação.
+
+Os modelos foram avaliados utilizando Accuracy, F1-Score e matriz de confusão. Também foram comparados os resultados de treinamento e teste para verificar se existia overfitting.
+
+Foi possível perceber que alguns modelos tiveram resultados muito altos no treinamento, mas apresentaram uma queda significativa no teste. Isso indica possível overfitting,
+pois o modelo aprendeu muito bem os dados de treinamento, mas teve mais dificuldade com dados novos.
+
+A Accuracy mostra a quantidade de previsões corretas. Já o F1-Score avalia melhor o desempenho do modelo considerando os acertos e erros da classe positiva. 
+Por isso, o F1-Score é uma métrica importante para comparar os modelos.
+
+O PyCaret facilita esse processo porque permite treinar e comparar vários modelos automaticamente através da função compare_models().
+
+A implementação manual é importante para entender o funcionamento dos modelos, enquanto o PyCaret facilita os testes e comparações. Portanto, as duas abordagens podem ser utilizadas juntas.
+
+Os resultados mostram que os modelos conseguiram aprender padrões dos dados, mas é necessário verificar o desempenho em dados novos antes de utilizar um modelo em produção.
